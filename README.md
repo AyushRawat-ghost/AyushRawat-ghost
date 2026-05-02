@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Rawat&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20Blockchain%20Dev%20%7C%20GPU%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Rawat&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Engineer%20%7C%20Blockchain%20Dev%20%7C%20GPU%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+on+Blockchain+%26+CUDA+%F0%9F%9A%80;Data+Engineering+Architect+%F0%9F%8F%97%EF%B8%8F;Open+Source+Collaborator+%F0%9F%A4%9D;GPU+%26+CUDA+Learner+%F0%9F%96%A5%EF%B8%8F;Big+Fan+of+Story+Mode+Games+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Building+on+Blockchain+%26+CUDA+%F0%9F%9A%80;Data+Engineering+Architect+%F0%9F%8F%97%EF%B8%8F;Open+Source+Collaborator+%F0%9F%A4%9D;GPU+%26+CUDA+Learner+%F0%9F%96%A5%EF%B8%8F;Story+Mode+Games+Enthusiast+%F0%9F%8E%AE;Ask+Me+About+Data+Engineering!+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views + Social Badges -->
+<!-- Social Badges -->
 [![](https://visitcount.itsvg.in/api?id=AyushRawat-ghost&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ayush@6342)
@@ -147,9 +147,102 @@ Working on a data protection project for healthcare — reach out if you're inte
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRawat-ghost&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=AyushRawat-ghost&theme=tokyonight&hide_border=true" height="180"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AyushRawat-ghost&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+[![Ayush's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushRawat-ghost&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushRawat-ghost/AyushRawat-ghost/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushRawat-ghost/AyushRawat-ghost/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AyushRawat-ghost/AyushRawat-ghost/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> 💡 **To activate the snake:** Create `.github/workflows/snake.yml` in your profile repo with the content below, then run it once manually from the Actions tab.
+
+<details>
+<summary>📋 Click to copy the Snake GitHub Action</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:        # lets you trigger it manually too
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AyushRawat-ghost
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<!-- 🔁 Replace REPO_NAME_1/2/3/4 with your actual public repo names -->
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/REPO_NAME_1)
+&nbsp;&nbsp;
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/REPO_NAME_2)
+
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_3&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/REPO_NAME_3)
+&nbsp;&nbsp;
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_4&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/REPO_NAME_4)
+
+</div>
+
+---
+
+## 📊 Profile Summary Cards
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushRawat-ghost&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushRawat-ghost&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushRawat-ghost&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushRawat-ghost&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushRawat-ghost&theme=tokyonight&utcOffset=5.5" height="160"/>
 
 </div>
 
@@ -187,8 +280,12 @@ Working on a data protection project for healthcare — reach out if you're inte
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 *"Code is poetry written for machines, but read by humans."*
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=AyushRawat-ghost&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
