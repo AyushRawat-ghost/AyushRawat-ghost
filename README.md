@@ -163,19 +163,6 @@ Working on a data protection project for healthcare — reach out if you're inte
 
 </div>
 
----
-
-## 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushRawat-ghost/AyushRawat-ghost/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushRawat-ghost/AyushRawat-ghost/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AyushRawat-ghost/AyushRawat-ghost/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -222,14 +209,6 @@ Working on a data protection project for healthcare — reach out if you're inte
 </div>
 
 ---
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=AyushRawat-ghost&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
