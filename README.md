@@ -177,24 +177,19 @@ Working on a data protection project for healthcare — reach out if you're inte
 
 </div>
 
-
-
-</details>
-
 ---
 
 ## 📌 Featured Projects
 
 <div align="center">
 
-<!-- 🔁 Replace REPO_NAME_1/2/3/4 with your actual public repo names -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Data-Science-And-Engineering)
+[![Data-Science-And-Engineering](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=Data-Science-And-Engineering&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Data-Science-And-Engineering)
 &nbsp;&nbsp;
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/BlockChain-Project)
+[![BlockChain-Project](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=BlockChain-Project&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/BlockChain-Project)
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_3&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Cuda-App)
+[![Cuda-App](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=Cuda-App&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Cuda-App)
 &nbsp;&nbsp;
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_4&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Quntum-Computing)
+[![Quntum-Computing](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=Quntum-Computing&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Quntum-Computing)
 
 </div>
 
