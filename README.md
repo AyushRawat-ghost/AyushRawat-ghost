@@ -218,13 +218,13 @@ jobs:
 <div align="center">
 
 <!-- 🔁 Replace REPO_NAME_1/2/3/4 with your actual public repo names -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/REPO_NAME_1)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Data-Science-And-Engineering)
 &nbsp;&nbsp;
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/REPO_NAME_2)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/BlockChain-Project)
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_3&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/REPO_NAME_3)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_3&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Cuda-App)
 &nbsp;&nbsp;
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_4&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/REPO_NAME_4)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=AyushRawat-ghost&repo=REPO_NAME_4&theme=tokyonight&hide_border=true)](https://github.com/AyushRawat-ghost/Quntum-Computing)
 
 </div>
 
