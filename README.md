@@ -177,37 +177,7 @@ Working on a data protection project for healthcare — reach out if you're inte
 
 </div>
 
-> 💡 **To activate the snake:** Create `.github/workflows/snake.yml` in your profile repo with the content below, then run it once manually from the Actions tab.
 
-<details>
-<summary>📋 Click to copy the Snake GitHub Action</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:        # lets you trigger it manually too
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AyushRawat-ghost
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 </details>
 
