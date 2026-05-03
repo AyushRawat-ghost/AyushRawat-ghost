@@ -29,12 +29,12 @@
 ```yaml
 name      : Ayush (Ayu) Rawat
 location  : India 🇮🇳
-focus     : Data Engineering · Blockchain · CUDA / GPU Development
+focus     : Data Engineering · Blockchain · CUDA / GPU Development · Autonomous AI  Development 
 collab    : Open Source Projects
 seeking   : Healthcare Data Governance & Protection collaborators
-learning  : CUDA, GPU Architecture & Parallel Computing
+learning  : CUDA, GPU Architecture & Parallel Computing and Agenti AI
 interests : Digital Creativity, Story Mode Games 🎮
-ask_me    : Anything Data Engineering & Analysis related!
+ask_me    : Anything Data Engineering Analysis and AI related!
 ```
 
 ---
