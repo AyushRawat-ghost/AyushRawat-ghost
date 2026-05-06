@@ -39,6 +39,61 @@ ask_me    : Anything Data Engineering Analysis and AI related!
 
 ---
 
+## 💼 Work Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Agent Development Intern
+**Suresh Dani's Science Classes** · Internship  
+📅 Feb 2026 – Present · 4 mos  
+📍 Mumbai Metropolitan Region · Hybrid
+
+- Working on AI agent systems and intelligent automation workflows
+- Involved in bug tracking and quality assurance processes
+- **Skills:** Artificial Intelligence (AI), Bug Tracking
+
+</td>
+<td width="50%">
+
+### 🌐 Web Development Intern
+**InAmigos Foundation (IAF)** · Internship  
+📅 May 2026 · 1 mo  
+📍 Mumbai Metropolitan Region · Remote
+
+- Contributing to the digital presence of InAmigos Foundation, a NITI Aayog-registered NGO for social welfare
+- Built responsive web modules using **HTML, CSS, JavaScript, React**
+- Implemented UI/UX improvements ensuring seamless experience for donors, volunteers & stakeholders
+- Optimized site performance for high-traffic campaigns like **Project Seva** and **Project Vikas**
+- Integrated digital tools for volunteer registration and donation tracking
+- **Skills:** Web Infrastructure, Web Development
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Data Science and Analysis Intern
+**Cinute Digital (CDPL)** · Internship  
+📅 Feb 2026 – Mar 2026 · 2 mos  
+📍 Mumbai Metropolitan Region · Hybrid
+
+- Worked on large-scale data engineering and predictive modeling projects
+- Managed datasets with **149,000+ rows**, building automated **ETL processes** and **Star Schema** architectures
+- Developed interactive dashboards and a student performance prediction model with **98% accuracy**
+- Helped stakeholders derive strategic insights from complex data
+- **Skills:** Machine Learning, Data Analytics, Data Engineering
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 What I'm Working On
 
 <table>
@@ -71,6 +126,33 @@ Working on a data protection project for healthcare — reach out if you're inte
 </td>
 </tr>
 </table>
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+| 🎓 Certificate | 🏛️ Issuer | 📅 Issued | 🛠️ Skills |
+|---|---|---|---|
+| **Quantium Data Analytics Job Simulation** | Forage | Apr 2026 | Data Analysis, Data Visualization |
+| **Electronic Arts Software Engineering** | Forage | Apr 2026 | Software Development, Secure SDLC, Game Dev |
+| **Hackathon Participation [IEEE Techkathon]** | Atharva University Mumbai | Jan 2026 | PyTorch, Machine Learning |
+| **AR/VR and Game Development** | IOFT | Jan 2025 | Virtual Reality, Game Development |
+| **Computer Graphics** | NPTEL | Jul 2024 | Game Engines |
+
+</div>
+
+<details>
+<summary>📋 View Credential IDs</summary>
+
+<br/>
+
+- **Quantium Data Analytics** — `pqM9nedyQwaR5cwzs` (Forage)
+- **Electronic Arts Software Engineering** — `69db8e7d7f12b55f73c4cbc9` (Forage)
+- **Computer Graphics** — `NPTEL24CS82S341900376` (NPTEL)
+
+</details>
 
 ---
 
@@ -207,8 +289,6 @@ Working on a data protection project for healthcare — reach out if you're inte
 ![](https://github-profile-trophy.vercel.app/?username=AyushRawat-ghost&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
-
----
 
 ---
 
