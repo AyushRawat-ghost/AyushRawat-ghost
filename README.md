@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=AI+Platform+Engineer+%40+Suresh+Dani+%F0%9F%A4%96;Data+Engineering+Architect+%F0%9F%8F%97%EF%B8%8F;Building+RAG+%26+Agentic+AI+Systems+%F0%9F%9A%80;Blockchain+%26+CUDA+Explorer+%F0%9F%96%A5%EF%B8%8F;Open+to+DA+%7C+DE+%7C+AI-ML+Roles+%F0%9F%93%A2;Ask+Me+About+Data+Engineering!+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=AI+Platform+Engineer+%40+Suresh+Dani+%F0%9F%A4%96;Data+Engineer+%40+Earthen+Story+%F0%9F%8C%B1;Data+Engineering+Architect+%F0%9F%8F%97%EF%B8%8F;Building+RAG+%26+Agentic+AI+Systems+%F0%9F%9A%80;Blockchain+%26+CUDA+Explorer+%F0%9F%96%A5%EF%B8%8F;Open+to+DA+%7C+DE+%7C+AI-ML+Roles+%F0%9F%93%A2;Ask+Me+About+Data+Engineering!+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -33,7 +33,8 @@
 ```yaml
 name         : Ayush (Ayu) Rawat
 location     : Mumbai, India 🇮🇳
-current_role : AI Platform Engineer @ Suresh Dani's Science Classes
+current_roles: AI Platform Engineer @ Suresh Dani's Science Classes
+                GCP Data Engineer @ Earthen Story
 education    : BSc Computer Science — Mumbai University (CGPA: 8.98)
 graduated    : April 2026
 portfolio    : https://ayush-rawat-portfolios.netlify.app/
@@ -69,6 +70,20 @@ ask_me       : Anything Data Engineering, Analysis, and AI related!
 <tr>
 <td width="50%">
 
+### 🌱 GCP Data Engineer
+**Earthen Story** · Internship
+📅 Aug 2026 – Present
+📍 Mumbai Metropolitan Region
+
+- Deploying scalable data solutions on **Google Cloud Platform (GCP)** to help the business better understand its customers
+- Building cloud-native data engineering workflows to support customer analytics and insights
+- **Stack:** GCP · Data Engineering · Cloud Data Pipelines
+
+
+
+</td>
+<td width="50%">
+
 ### 🤖 AI Platform Engineer
 **Suresh Dani's Science Classes** · Internship
 📅 Feb 2026 – Present · 4+ months
@@ -80,6 +95,8 @@ ask_me       : Anything Data Engineering, Analysis, and AI related!
 - **Stack:** FastAPI · MongoDB Atlas · RAG · Agentic AI · Python
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌐 Web Development Intern
@@ -94,8 +111,6 @@ ask_me       : Anything Data Engineering, Analysis, and AI related!
 - **Stack:** React · HTML/CSS · JavaScript · Tailwind CSS
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📊 Data Science & Analytics Intern
@@ -110,7 +125,9 @@ ask_me       : Anything Data Engineering, Analysis, and AI related!
 - **Stack:** Python · Pandas · SQL Server · Power BI · Scikit-Learn
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td colspan="2">
 
 ### 🏗️ What I'm Building Next
 
