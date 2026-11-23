@@ -26,11 +26,10 @@
 
 </div>
 
----
+
 
 ## 🧑‍💻 About Me
 
-```yaml
 name          : Ayush (Ayu) Rawat
 location      : Mumbai, India 🇮🇳
 current_roles : 
