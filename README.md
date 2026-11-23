@@ -27,7 +27,7 @@
 </div>
 
 
----yaml
+---
 ## 🧑‍💻 About Me
 
 name          : Ayush (Ayu) Rawat
@@ -69,7 +69,7 @@ ask_me_about  : Cloud ETL/ELT, Production FastAPI, RAG Architectures, and Quick 
 <td width="50%" valign="top">
 
 ### 🌱 Founding Data Engineer
-**Earthen Story** · Full-time / Core Team  
+**Earthen Story** · Internship / Core Team  
 📅 **Aug 2026 – Present**  
 📍 Mumbai Metropolitan Region · Hybrid
 
@@ -84,7 +84,7 @@ ask_me_about  : Cloud ETL/ELT, Production FastAPI, RAG Architectures, and Quick 
 
 ### 🤖 AI Platform Engineer
 **Suresh Dani's Science Classes** · Internship  
-📅 **Feb 2026 – Present**  
+📅 **Feb 2026 – Jul 2026**  
 📍 Mumbai Metropolitan Region · Hybrid
 
 - **Nabble AI Architecture:** Architected an enterprise-grade RAG educational platform utilizing **FastAPI** and **MongoDB Atlas Vector Search** to serve context-aware, low-latency tutoring responses.
