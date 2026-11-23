@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -45,7 +44,6 @@ active_stack  : Google Cloud (Run, Build, BigQuery, IAM) · FastAPI · Python ·
 learning      : Distributed Systems · CUDA Kernel Optimization · Advanced Agentic Workflows
 interests     : Digital Creativity, Story Mode Games 🎮, Quantum Computing
 ask_me_about  : Cloud ETL/ELT, Production FastAPI, RAG Architectures, and Quick Commerce Analytics!
-```
 
 ---
 
